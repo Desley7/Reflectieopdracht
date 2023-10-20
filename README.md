@@ -5,14 +5,15 @@
 
 - Wat heb ik nieuw geleerd?
 
-  alles wat ik nu weet heb ik in de les geleerd.
+  ik heb javascript geleerd ik heb de code geleerd ik weet hoe visual studio code werkt
+  ik weet hoe je moet pushen en pullen
 - Wat wist ik al?
 
-  nog helemaal niks
+  toen ik op school kwam wist ik een klein beetje html
 
 - Waarvan zou ik meer willen weten?
 
-  Van de code
+  van javascript zou ik wel meer willen weten
 
 
 ![bal](https://github.com/Desley7/Reflectieopdracht/assets/144898896/390ad5d5-b5e2-4e5b-95a8-9bdef8845f5c)
