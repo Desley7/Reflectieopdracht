@@ -14,7 +14,10 @@
 
   Van de code
 
+
 ![bal](https://github.com/Desley7/Reflectieopdracht/assets/144898896/390ad5d5-b5e2-4e5b-95a8-9bdef8845f5c)
+
+
 
 # Emanuel Ghiorghita
 ### Wat heb ik met deze lessen nieuw geleerd?
