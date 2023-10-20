@@ -26,6 +26,7 @@
 ### Waarvan zou ik nog meer willen weten?
 - Het programmeren want daar heb ik nog heel veel moeite mee
 
+![unnamed](https://github.com/Desley7/Reflectieopdracht/assets/144899298/6653aebe-5200-4242-aee8-9bd087f45f64)
 
 
 
