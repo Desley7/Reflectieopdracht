@@ -13,7 +13,8 @@
    
  - ik zou nog meer over git zelf willen weten zodat ik altijd weet hoe ik het moet gebruiken en altijd kan clonen zonder problemen, en altijd kan pushen en pullen zonder errors 
    
-    ##### ![image](https://github.com/Desley7/Reflectieopdracht/assets/144898932/7c924f68-9207-4156-a6f1-d5c32999362d)
+    ![afgelast1_0](https://github.com/Desley7/Reflectieopdracht/assets/144898932/fd4fae59-e15f-4565-abfa-885542c46bf8)
+
 
   
 
