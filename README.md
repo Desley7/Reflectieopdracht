@@ -27,7 +27,8 @@
 - Het programmeren want daar heb ik nog heel veel moeite mee
 
 
-# Reflecrieopdract
+
+
 # sydney cairo
  ## wat heb ik geleerd?
   
